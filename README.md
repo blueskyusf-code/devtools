@@ -14,5 +14,3 @@ o que muda?
 <br>
 e isso só.
 
-![Imagem]
-(LicenseImage.png)
