@@ -13,3 +13,6 @@ o que muda?
 * Menos problemas
 <br>
 e isso só.
+
+![Imagem]
+(LicenseImage.png)
