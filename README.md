@@ -3,10 +3,10 @@ Seu ambiente, suas regras. Uma paleta de possibilidades onde você decide as cor
 
 
 **RalTool Integrado**
+<br>
 sim, raltool
 <br>
 o que muda?
-<br>
 * licença própria
 * Mais proteção
 * Mais Segurança a Copyright
